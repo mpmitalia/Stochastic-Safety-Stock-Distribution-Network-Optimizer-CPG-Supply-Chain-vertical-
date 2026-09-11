@@ -1,0 +1,11 @@
+# Raw data (too large for GitHub, download from Kaggle - see README)
+data/*.csv
+!data/DescriptionDataCoSupplyChain.csv
+data/*.zip
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
