@@ -8,7 +8,7 @@
 
 ## Architecture
 
-![Architecture](documentation/Architecture.png)
+![Architecture](documentation/Architecture.png) e377c8c (Reorganize dashboard and presentation files into their documented folders)
 
 Data Sources → SQL staging + integrity checks → ETL → Feature Engineering → Statistical distribution fitting → Mathematical (Q,R) model → Optimization → Scenario + Monte Carlo simulation → Power BI dashboard → Executive recommendation.
 
