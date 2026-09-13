@@ -8,7 +8,7 @@
 
 ## Architecture
 
-![Architecture](documentation/architecture.png)
+![Architecture](documentation/Architecture.png)
 
 Data Sources → SQL staging + integrity checks → ETL → Feature Engineering → Statistical distribution fitting → Mathematical (Q,R) model → Optimization → Scenario + Monte Carlo simulation → Power BI dashboard → Executive recommendation.
 
