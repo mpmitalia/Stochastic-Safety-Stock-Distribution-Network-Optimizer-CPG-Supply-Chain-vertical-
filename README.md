@@ -51,7 +51,3 @@ documentation/- architecture diagram
 presentation/ - executive client-deck (see note below)
 data/         - column dictionary only (raw data not committed; see Kaggle link above)
 ```
-
-## Status / what's pending
-- [ ] Presentation deck (`presentation/`) — not yet added
-- [ ] Power BI dashboard should be refreshed against the corrected `dashboard/powerbi_exports/pair_level_model_output.csv` (the committed `.pbix` may reflect an earlier, uncorrected optimizer run)
