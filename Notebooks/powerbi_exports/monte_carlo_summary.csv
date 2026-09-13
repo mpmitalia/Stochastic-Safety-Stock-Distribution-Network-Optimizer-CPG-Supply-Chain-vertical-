@@ -1,5 +1,5 @@
 policy,metric,value,ci_low_90,ci_high_90
 Current (flat 60%),expected_stockouts,73.6268,61.0,87.0
 Current (flat 60%),expected_cost,2016.1832542511888,1890.3907421994502,2166.444096831577
-Optimized,expected_stockouts,55.7132,44.0,67.0
-Optimized,expected_cost,2105.4477530346066,1997.8880502120371,2241.7103053489454
+Optimized,expected_stockouts,55.7334,44.0,67.0
+Optimized,expected_cost,2105.562346322055,1998.1847028499787,2242.4086524240097
